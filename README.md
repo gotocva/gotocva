@@ -21,9 +21,6 @@ I’m Sivabharathy <gotocva@gmail.com>
 
 [<img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png">](https://www.linkedin.com/in/gotocva)
 
-### 📊 Statistics: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gotocva&show_icons=true) 
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotocva)
  
 <br>

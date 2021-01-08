@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Sivabharathy Banner Image](./siva.jpeg)
+
 I’m Sivabharathy <gotocva@gmail.com>
 
-### Find me in social networks
 
-[<img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png">](https://www.linkedin.com/in/gotocva)
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:gotocva@gmail.com">![gotocva@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/gotocva/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://gotocva.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotocva)
  

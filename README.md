@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sivabharathy Banner Image](./siva.jpeg)
-
 I’m Sivabharathy <gotocva@gmail.com>
 
 
@@ -27,12 +25,3 @@ I’m Sivabharathy <gotocva@gmail.com>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotocva)
  
 <br>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/visits/gotocva/gotocva?style=flat-square&color=blue&logo=github">
-</a>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/years/gotocva?style=flat-square&color=blue&logo=github">
-</a>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/repos/gotocva?style=flat-square&color=blue&logo=github">
-</a>

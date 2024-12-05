@@ -1,16 +1,30 @@
-<h1 align="center">Hi 👋, I'm Sivabharathy</h1>
-<h4>
-Technical Architect at Sparkout tech solutions</h4>
+## About Me
 
-<h4>
-Technology Enthusiast and voracious reader with a demonstrated history of working in the computer software industry. Skilled in PHP, JavaScript, NodeJS, Angular, MySQL, MongoDB, Web3, Product Development, Project Management, and Teamwork.
-</h4>
+I am a **Software Engineer** and **Lead Project Manager** at [Sparkout Tech Solutions Pvt Ltd](https://sparkouttech.com/). I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+
+In my spare time, I build **open-source software** for myself, and I'm also a **stock trader**. Beyond tech, I'm an **avid football player** and **cricket fan**.
+
+---
+
+### Get in Touch
+
+- **Website**: [sivabharathy.in](https://sivabharathy.in/)
+- **Email**: [gotocva@gmail.com](mailto:gotocva@gmail.com)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/gotocva)
+- **Medium**: [Medium](https://medium.com/@gotocva)
+
+Feel free to reach out if you have any questions or are interested in collaborating with me!
+
+---
+
+# Some Articles 
+
+- [001 - Javascript Event Loop Call Stack And Task Queue](https://sivabharathy.in/blog/javascript-event-loop-call-stack-and-task-queue-explained)
+- [002 - Performance Analysis Of Database Mongodb And Postgresql
+](https://sivabharathy.in/blog/performance-analysis-of-database-mongodb-and-postgresql)
+- [003 - Message Queue Brokers Which One To Choose](https://sivabharathy.in/blog/message-queue-brokers-which-one-to-choose)
 
 
-- Find my personal blog at [https://gotocva.github.io](https://gotocva.github.io)
-
-- Any queries feel free to reach me at **gotocva@gmail.com**
-
-- Connect with me at <a href="https://linkedin.com/in/gotocva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gotocva" height="20" width="20" /></a>
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gotocva&label=Profile%20views&color=0e75b6&style=flat" alt="gotocva" /> </p>
